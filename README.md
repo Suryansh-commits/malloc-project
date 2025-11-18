@@ -18,7 +18,6 @@ This allocator uses:
 - Coalescing of adjacent free blocks
 - First-Fit allocation strategy
 
-Perfect for *OS courses, **systems programming practice, or **low-level memory management study*.
 
 ---
 
