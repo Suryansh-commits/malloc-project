@@ -34,40 +34,40 @@ This project includes a Makefile for automatic compilation.
 
 ## Step 1: Clone (or download) the project
 
-bash
-git clone 
+```bash
+git clone https://github.com/Suryansh-commits/malloc-project
 cd malloc-project
-
+```
 
 ---
 
 ## Step 2: Build the allocator and test program
 
-bash
+```bash
 make
-
+```
 
 This produces an executable:
 
 
-test
+`test`
 
 
 ---
 
 ## Step 3: Run the test suite
 
-bash
+```bash
 ./test
-
+```
 
 ---
 
 ## Step 4: Clean build files
 
-bash
+```bash
 make clean
-
+```
 
 ---
 
